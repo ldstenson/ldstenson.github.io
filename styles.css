@@ -1,0 +1,185 @@
+/* INDEX */
+
+* {
+  font-family: verdana, serif;
+  color: #6D6875;
+}
+
+body {
+    background-image: linear-gradient(#E5989B, #FFCDB2);
+}
+
+h1 {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 20px;
+  font-size: 24px;
+  color: #B5838D;
+  background-color: #FFFFFF;
+  border: 10px double #B5838D;
+}
+
+header {
+  margin-left: -13px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+header li {
+  display: inline;
+  padding: 20px;
+  color: #B5838D;
+  background-color: #FFFFFF;
+}
+
+a {
+  background-color: #FFFFFF;
+  color: #B5838D;
+}
+
+img {
+  display: block;
+  max-width: 95%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid #FFFFFF;
+}
+
+#img1 {
+  margin-top: 10px;
+}
+
+#img2 {
+  float: right;
+  height: auto;
+  margin-right: 30px;
+  margin-left: 10px;
+  width: 175px;
+}
+
+main {
+  margin-top: 65px;
+  margin-right: 250px;
+  margin-left: 28px;
+  padding: 30px;
+  font-size: 14px;
+  background-color: #FFFFFF;
+}
+
+/*  ABOUT */
+
+.about {
+  background-color: #FFFFFF;
+  padding: 30px;
+  margin-left: 600px;
+  margin-top: -50px;
+}
+
+dd {
+  color: #B5838D;
+}
+
+#about-me {
+    text-align: center;
+    padding: 20px;
+    color: #B5838D;
+    background-color: #FFFFFF;
+    border: 10px double #B5838D;
+    margin-left: 28px;
+    margin-right: 698px;
+}
+
+#insta {
+  padding-right: 15px;
+}
+
+.links {
+  padding-top: 20px;
+
+}
+
+#img3 {
+  float: left;
+  width: 400px;
+  margin-left: 80px;
+}
+
+/*  OTHER */
+#current-fave {
+  text-align: center;
+  padding: 20px;
+  color: #B5838D;
+  background-color: #FFFFFF;
+  border: 10px double #B5838D;
+  margin-left: 28px;
+  margin-right: 698px;
+}
+
+.other-media
+h3,
+p
+ {
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+.other-media
+#p1,
+#p2 {
+  padding: 10px;
+}
+
+#img4 {
+  width: 600px;
+}
+
+#img5 {
+  width: 400px;
+}
+
+.tv,
+.music,
+.nv,
+.hk,
+.p4g {
+  background-color: #FFFFFF;
+  border: 4px dashed #B5838D;
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+.tv {
+  margin-bottom: 10px;
+}
+
+/* FAVORITES */
+.nv,
+.hk,
+.p4g {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+#img6 {
+  width: 600px;
+}
+
+#img7,
+#img8 {
+  width: 500px;
+}
+
+#fav-games {
+  text-align: center;
+  padding: 20px;
+  color: #B5838D;
+  background-color: #FFFFFF;
+  border: 10px double #B5838D;
+  margin-left: 28px;
+  margin-right: 698px;
+}
